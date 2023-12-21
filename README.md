@@ -1,42 +1,41 @@
 # Web Development Starter Task
 
 ## Introduction
-Welcome to the Web Development Starter Task. This project is designed to help you set up your development environment and get started with basic version control operations using Git and GitHub.
+This project guides you through setting up a fundamental development environment for web development. You'll install essential tools and create a GitHub account for version control and collaboration.
 
 ## Prerequisites
-Before you begin, make sure you have the following:
-- A computer with internet access.
-- Basic understanding of how to use your computer's terminal or command prompt.
+- Access to a computer with internet capability.
+- Basic familiarity with using your computer's terminal or command prompt.
 
 ## Task Overview
-1. **Install Git**: Git is a version control system that lets you manage and keep track of your source code history.
-2. **Install Visual Studio Code (VSCode)**: VSCode is a popular open-source code editor.
-3. **Create a GitHub Account**: GitHub is a platform for hosting and collaborating on software projects.
-4. **Fork this Repository**: Forking will create a copy of this repository in your GitHub account.
+1. **Install Google Chrome**: A popular web browser with developer-friendly tools.
+2. **Install Node Version Manager (NVM) and Node.js**: NVM allows you to manage multiple Node.js versions.
+3. **Install Git**: A version control system to track changes in your code.
+4. **Create a GitHub Account**: For hosting and collaborating on software projects.
 
 ## Detailed Instructions
 
-### 1. Install Git
+### 1. Install Google Chrome
+- Download Chrome from [Google Chrome's website](https://www.google.com/chrome/).
+- Follow the installation instructions for your operating system.
+
+### 2. Install Node Version Manager (NVM) and Node.js
+- Follow the NVM installation instructions on the [NVM GitHub page](https://github.com/nvm-sh/nvm).
+- After installing NVM, install Node.js by running `nvm install node` in your terminal.
+
+### 3. Install Git
 - Visit [Git's official website](https://git-scm.com/downloads) and download the version for your operating system.
 - Follow the installation instructions.
 
-### 2. Install Visual Studio Code (VSCode)
-- Download VSCode from [here](https://code.visualstudio.com/).
-- Run the installer and follow the setup wizard.
-
-### 3. Create a GitHub Account
+### 4. Create a GitHub Account
 - Go to [GitHub's website](https://github.com/).
-- Click on the “Sign up” button and follow the instructions to create your account.
-
-### 4. Fork this Repository
-- Navigate to the GitHub page of this repository.
-- In the top-right corner of the page, click the “Fork” button.
+- Click “Sign up” and follow the steps to create your account.
 
 ## Completion
-Once you've completed all the steps, you're ready to start learning web development. Future tasks will be posted in this repository.
+After completing these steps, you are ready to delve into web development. Future tasks and learning materials will be posted in this repository.
 
 ## Feedback
-We appreciate your feedback! If you have suggestions or find any issues, please create an issue in this repository.
+Your feedback is valuable! For suggestions or issues, please create an issue in this repository.
 
 ---
 
